@@ -1,6 +1,6 @@
 # avita
 
-FIXME
+erver side for the Anonymous AMA website
 
 ## Prerequisites
 
